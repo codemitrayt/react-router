@@ -1,5 +1,6 @@
 <div align="center">
   <img src="./public/logo.png" alt="logo" height="50">
+  <h1>FUDO</h1>
   <h1>Learn React Router With Code Mitra YT</h1>
 </div>
 
